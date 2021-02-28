@@ -4,8 +4,8 @@
 [Problem Statement PDF](https://github.com/zerohoc/Hashcode-2021-Qualifications/blob/main/problem/hashcode_2021_online_qualifications.pdf)
 
 ### Solution
-1. Create a intersection list with incoming streets
-2. Give every incoming street a 1 second green light time
+1. Create an intersection list with incoming streets
+2. Give a 1 second green light time to each incoming street
 
 ## Scores
 Score: 7,885,740
